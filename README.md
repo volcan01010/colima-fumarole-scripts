@@ -4,10 +4,7 @@
 
 These scripts were used to create figures for the following paper:
 
-Stevenson JA, Varley N (2008) Fumarole monitoring with a handheld infrared
-camera: Volcán de Colima, Mexico, 2006-2007. Journal of Volcanology and
-Geothermal Research 177:911–924.
-[https://doi.org/10.1016/j.jvolgeores.2008.07.003](https://doi.org/10.1016/j.jvolgeores.2008.07.003)
++ Stevenson JA, Varley N (2008) _Fumarole monitoring with a handheld infrared camera: Volcán de Colima, Mexico, 2006-2007._ Journal of Volcanology and Geothermal Research 177:911–924.  [https://doi.org/10.1016/j.jvolgeores.2008.07.003](https://doi.org/10.1016/j.jvolgeores.2008.07.003)
 
 They are published here in case they are useful to others.
 I no longer have access to Matlab and haven't used it for over 10 years, so
