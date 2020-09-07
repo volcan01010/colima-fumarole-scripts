@@ -9,7 +9,7 @@ These scripts were used to create figures for the following paper:
 They are published here in case they are useful to others.
 I no longer have access to Matlab and haven't used it for over 10 years, so
 I have been unable to test or update them.
-They are deposited as they were used to create the paper.
+They are deposited in exactly the same form as when they were used to create the paper.
 Not all the files may be required.
 
 I'm not sure which Matlab version is required, but it was current in 2008.
