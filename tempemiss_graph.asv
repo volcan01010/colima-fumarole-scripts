@@ -1,0 +1,15 @@
+load temp-emiss
+figure('PaperPositionMode', 'auto', 'position', [200 100 900 600])
+plot(temp300, emiss300, 'k.');
+hold on
+range=[-100:10:250];
+plot(range, temp2rad300(range), 'k:')
+
+
+xlabel('Temperature \i', 'fontweight', 'demi')
+ylabel('Hotspot Intensity (nti)', 'fontweight', 'demi')
+%title('MODVOLC Alerts at Volcán de Colima, 2002-2007', 'fontsize', 12, 'fontweight', 'bold')
+xlm=xlim; ylm=ylim; text( xlm(1)+0.01*(diff(xlm)), ylm(1)+0.95*(diff(ylm)), 'a)' , 'fontweight', 'bold');
+
+
+print( '-dtiff', '-r300', 'temp-emiss' );
